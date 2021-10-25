@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avinash-dev-code
 - 👀 I’m interested in AndroidDev,AR,VR.
-- 🌱 I’m currently learning AR+Android.
+- 🌱 I’m currently working on AR+Android.
 - 💞️ I’m looking to collaborate on Android,AR Tech.
 - 📫 How to reach me -(atechsavvy123@gmail.com)
 
