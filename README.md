@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avinash-dev-code
-- 👀 I’m interested in AndroidDev,AR.
+- 👀 I’m interested in Android Development,Flutter,AR.
 - 🌱 I’m currently working on AR+Android.
 - 💞️ I’m looking to collaborate on Android,AR Tech.
 - 📫 How to reach me -(atechsavvy123@gmail.com)
